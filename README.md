@@ -1,6 +1,7 @@
 # 🧾 AI 経費精算ツール (AI Expense Settlement Tool)
 
-<img width="3840" height="1080" alt="image" src="https://github.com/user-attachments/assets/a5a1f169-23c7-4a71-84ea-97cdc75ed166" />
+<img width="1916" height="1080" alt="ho1me" src="https://github.com/user-attachments/assets/00b55a01-9b1a-4fa1-999e-36220a81e03d" />
+
 
 
 日本の「インボイス制度」および「電子帳簿保存法」に完全対応した、B2B SaaS型のAI領収書解析・経費精算システムです。
