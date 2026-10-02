@@ -1,5 +1,8 @@
 # 🧾 AI 経費精算ツール (AI Expense Settlement Tool)
 
+<img width="3840" height="1080" alt="image" src="https://github.com/user-attachments/assets/a5a1f169-23c7-4a71-84ea-97cdc75ed166" />
+
+
 日本の「インボイス制度」および「電子帳簿保存法」に完全対応した、B2B SaaS型のAI領収書解析・経費精算システムです。
 
 https://japan-receipt-saas.vercel.app/
